@@ -1,0 +1,18 @@
+{
+    "suggest-animals": [
+        ["Cat", "Dog", "Indian Giant Squirrel"]
+    ],
+    "start": [
+        "Hey there, I'm an animal wiki bot, which animal would you like to know more about?"
+    ],
+    "repeat-please": [
+        "I couldn't understand which animal you want to learn about, can you repeat please?",
+        "I missed that, can you repeat please?",
+        "Which animal do you want to know about?"
+    ],
+    "animal-unknown": [
+        "I am sorry but I don't know the {animal}.",
+        "Sorry but never heard of the {animal}.",
+        "Are you sure {animal} exists? I don't know anything about it!"
+    ]
+}
