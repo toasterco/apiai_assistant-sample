@@ -33,6 +33,19 @@ Installation
     pip install -r requirements.txt -t .
 
 
+Points of interests
+===================
+
+- `Processing the API.ai request <https://github.com/toasterco/apiaiassistant-sample/blob/master/handlers/assistant_webhook.py#L16>`__
+
+- `Declaring the Assistant instance <https://github.com/toasterco/apiaiassistant-sample/blob/master/agent/__init__.py#L5>`__
+
+- `Start intent <https://github.com/toasterco/apiaiassistant-sample/blob/master/agent/actions/start.py#L5>`__
+
+- `Animal Info intent <https://github.com/toasterco/apiaiassistant-sample/blob/master/agent/actions/animal_info.py#L24>`__
+
+- `Animal Wiki Corpus <https://github.com/toasterco/apiaiassistant-sample/blob/master/corpora/animal_wiki_corpus.json>`__
+
 Usage
 =====
 
