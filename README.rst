@@ -97,7 +97,8 @@ Using your own deployed webhook
 
 - Install the `Cloud SDK <https://cloud.google.com/sdk/downloads>`__
 
-- Run :code:`gcloud config set account $YOUR_AOG_ACCOUNT`
+- Run:
+      :code:`gcloud config set account $YOUR_AOG_ACCOUNT`
 
       :code:`gcloud config set project $YOUR_AOG_PROJECT`
 
