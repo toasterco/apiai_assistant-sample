@@ -35,12 +35,8 @@ def animal_info(agent):
         agent.tell('animal-unknown', context={'animal': animal})
         return
 
-    text = None
-    if agent.parser.has_screen_capability():
-        card = build_animal_card(animal_info)
-        agent.show(card)
-        text = ""
-
     speech = animal_info.get('text')
-    agent.tell_raw(speech, text)
+    agent.tell_raw(speech, None)
 
+    card = build_animal_card(animal_info)
+    agent.show(card)
