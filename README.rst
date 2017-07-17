@@ -179,8 +179,10 @@ LICENCE
 
 Open Source : |LICENCE|
 
-
-.. |Logo| image:: https://raw.githubusercontent.com/toasterco/apiaiassistant/master/images/logo.gif
+.. |Logo| image:: https://raw.githubusercontent.com/toasterco/apiaiassistant/master/images/apiaiassistant-logo.png
+   :height: 180px
+   :width: 180 px
+   :alt: apiaiassistant logo
 
 .. |GitHub-Status| image:: https://img.shields.io/github/tag/toasterco/apiaiassistant.svg?maxAge=2592000
    :target: https://github.com/toasterco/apiaiassistant/releases
