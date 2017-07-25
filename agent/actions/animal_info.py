@@ -26,7 +26,7 @@ def animal_info(agent):
 
     if not animal:
         agent.ask('repeat-please')
-        agent.suggest('suggest-animals')
+        agent.suggest('animals')
         return
 
     animal = animal.lower()
