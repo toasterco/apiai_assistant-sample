@@ -1,1 +1,1 @@
-apiaiassistant
+apiai_assistant

@@ -1,5 +1,5 @@
 from common import constants
-from apiaiassistant import Assistant
+from apiai_assistant import Assistant
 
 
 assistant = Assistant(

@@ -1,22 +1,14 @@
-==========
-Disclaimer
-==========
-
-This README is a work in progress and some links (such as the PyPi links) and shields won't be available until the official release of the ``apiaiassistant`` package.
-
-------------------------------------------
-
 |Logo|
 
 ===============================
- apiaiassistant sample project
+ apiai_assistant sample project
 ===============================
 
 |GitHub-Status| |GitHub-Stars| |GitHub-Forks|
 
 |LICENCE|
 
-``apiaiassistant-sample`` is a very basic sample use of the `apiaiassistant <https://pypi.python.org/pypi/apiaiassistant>`__ library.
+``apiaiassistant-sample`` is a very basic sample use of the `apiai_assistant <https://pypi.python.org/pypi/apiai_assistant>`__ library.
 
 ------------------------------------------
 

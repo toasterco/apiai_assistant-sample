@@ -1,4 +1,4 @@
-from apiaiassistant import widgets
+from apiai_assistant import widgets
 
 from agent import assistant
 from common import constants
