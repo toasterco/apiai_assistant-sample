@@ -171,7 +171,7 @@ LICENCE
 
 Open Source : |LICENCE|
 
-.. |Logo| image:: https://raw.githubusercontent.com/toasterco/apiai_assistant/master/images/apiaiassistant-logo.png
+.. |Logo| image:: https://raw.githubusercontent.com/toasterco/apiai_assistant/master/images/apiai_assistant-logo.png
    :height: 180px
    :width: 180 px
    :alt: apiaiassistant logo
