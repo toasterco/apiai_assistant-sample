@@ -28,15 +28,15 @@ Installation
 Points of interests
 ===================
 
-- `Processing the API.ai request <https://github.com/toasterco/apiaiassistant-sample/blob/master/handlers/assistant_webhook.py#L16>`__
+- `Processing the API.ai request <https://github.com/toasterco/apiai_assistant-sample/blob/master/handlers/assistant_webhook.py#L16>`__
 
-- `Declaring the Assistant instance <https://github.com/toasterco/apiaiassistant-sample/blob/master/agent/__init__.py#L5>`__
+- `Declaring the Assistant instance <https://github.com/toasterco/apiai_assistant-sample/blob/master/agent/__init__.py#L5>`__
 
-- `Start intent <https://github.com/toasterco/apiaiassistant-sample/blob/master/agent/actions/start.py#L5>`__
+- `Start intent <https://github.com/toasterco/apiai_assistant-sample/blob/master/agent/actions/start.py#L5>`__
 
-- `Animal Info intent <https://github.com/toasterco/apiaiassistant-sample/blob/master/agent/actions/animal_info.py#L24>`__
+- `Animal Info intent <https://github.com/toasterco/apiai_assistant-sample/blob/master/agent/actions/animal_info.py#L24>`__
 
-- `Animal Wiki Corpus <https://github.com/toasterco/apiaiassistant-sample/blob/master/corpora/animal_wiki_corpus.json>`__
+- `Animal Wiki Corpus <https://github.com/toasterco/apiai_assistant-sample/blob/master/corpora/animal_wiki_corpus.json>`__
 
 Usage
 =====
@@ -153,7 +153,7 @@ FAQ and Known Issues
   ``The logged in user on your Assistant device must be part of the Actions on Google project``
 
 If you come across any other difficulties, browse/open issues
-`here <https://github.com/toasterco/apiaiassistant-sample/issues?q=is%3Aissue>`__.
+`here <https://github.com/toasterco/apiai_assistant-sample/issues?q=is%3Aissue>`__.
 
 Contributions
 =============
@@ -162,7 +162,7 @@ All source code is hosted on `GitHub <https://github.com/ToasterCo/apiaiassistan
 Contributions are welcome.
 
 See the
-`CONTRIBUTING <https://raw.githubusercontent.com/toasterco/apiaiassistant-sample/master/CONTRIBUTING.md>`__
+`CONTRIBUTING <https://raw.githubusercontent.com/toasterco/apiai_assistant-sample/master/CONTRIBUTING.md>`__
 file for more information.
 
 
@@ -171,19 +171,19 @@ LICENCE
 
 Open Source : |LICENCE|
 
-.. |Logo| image:: https://raw.githubusercontent.com/toasterco/apiaiassistant/master/images/apiaiassistant-logo.png
+.. |Logo| image:: https://raw.githubusercontent.com/toasterco/apiai_assistant/master/images/apiaiassistant-logo.png
    :height: 180px
    :width: 180 px
    :alt: apiaiassistant logo
 
-.. |GitHub-Status| image:: https://img.shields.io/github/tag/toasterco/apiaiassistant.svg?maxAge=2592000
-   :target: https://github.com/toasterco/apiaiassistant/releases
+.. |GitHub-Status| image:: https://img.shields.io/github/tag/toasterco/apiai_assistant.svg?maxAge=2592000
+   :target: https://github.com/toasterco/apiai_assistant/releases
 
-.. |GitHub-Forks| image:: https://img.shields.io/github/forks/toasterco/apiaiassistant.svg
-   :target: https://github.com/toasterco/apiaiassistant/network
+.. |GitHub-Forks| image:: https://img.shields.io/github/forks/toasterco/apiai_assistant.svg
+   :target: https://github.com/toasterco/apiai_assistant/network
 
-.. |GitHub-Stars| image:: https://img.shields.io/github/stars/toasterco/apiaiassistant.svg
-   :target: https://github.com/toasterco/apiaiassistant/stargazers
+.. |GitHub-Stars| image:: https://img.shields.io/github/stars/toasterco/apiai_assistant.svg
+   :target: https://github.com/toasterco/apiai_assistant/stargazers
 
 .. |LICENCE| image:: https://img.shields.io/pypi/l/apiaiassistant.svg
-   :target: https://raw.githubusercontent.com/toasterco/apiaiassistant/master/LICENCE
+   :target: https://raw.githubusercontent.com/toasterco/apiai_assistant/master/LICENCE
